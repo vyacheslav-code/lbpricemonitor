@@ -4,7 +4,7 @@ For some reason, our voice input isn't working properly on Heroku, but it works 
 
 ## Cloud links
 
-http://songie.herokuapp.com/ - Heroku
+https://lbpricemonitor.herokuapp.com/ - Heroku
 
 ## Requirements
 
