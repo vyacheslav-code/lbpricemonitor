@@ -1,7 +1,3 @@
-## Important
-
-For some reason, our voice input isn't working properly on Heroku, but it works if you launch app locally. Make sure to try it out!
-
 ## Cloud links
 
 https://lbpricemonitor.herokuapp.com/ - Heroku
